@@ -35,11 +35,11 @@
             // lblListCount
             // 
             this.lblListCount.AutoSize = true;
-            this.lblListCount.Location = new System.Drawing.Point(63, 27);
+            this.lblListCount.Location = new System.Drawing.Point(39, 24);
             this.lblListCount.Name = "lblListCount";
-            this.lblListCount.Size = new System.Drawing.Size(35, 13);
+            this.lblListCount.Size = new System.Drawing.Size(165, 13);
             this.lblListCount.TabIndex = 0;
-            this.lblListCount.Text = "label1";
+            this.lblListCount.Text = "Current number of items in the list:";
             // 
             // btnAdd
             // 

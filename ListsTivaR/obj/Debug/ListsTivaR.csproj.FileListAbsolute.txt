@@ -1,0 +1,10 @@
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 5\ListsTivaR\ListsTivaR\bin\Debug\ListsTivaR.exe.config
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 5\ListsTivaR\ListsTivaR\bin\Debug\ListsTivaR.exe
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 5\ListsTivaR\ListsTivaR\bin\Debug\ListsTivaR.pdb
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 5\ListsTivaR\ListsTivaR\obj\Debug\ListsTivaR.csprojResolveAssemblyReference.cache
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 5\ListsTivaR\ListsTivaR\obj\Debug\ListsTivaR.frmLists.resources
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 5\ListsTivaR\ListsTivaR\obj\Debug\ListsTivaR.Properties.Resources.resources
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 5\ListsTivaR\ListsTivaR\obj\Debug\ListsTivaR.csproj.GenerateResource.cache
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 5\ListsTivaR\ListsTivaR\obj\Debug\ListsTivaR.csproj.CoreCompileInputs.cache
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 5\ListsTivaR\ListsTivaR\obj\Debug\ListsTivaR.exe
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 5\ListsTivaR\ListsTivaR\obj\Debug\ListsTivaR.pdb
